@@ -1,22 +1,35 @@
 # Hi, I'm Nguyen 👋
 
-I'm a software developer from Vietnam with a background in computer science, currently looking for opportunities to grow and contribute. A Bachelor graduate of the University of Oulu, Finland.
+Computer Science and Engineering graduate with hands-on experience in software development, Python/Flask applications, Java, REST API integration, and LLM-powered applications.
 
-I enjoy building things - from small personal projects to coursework that pushed me to think in new ways. I'm comfortable working across different parts of a project and pick up new tools quickly.
+I have completed internships in software development and am currently gaining practical experience working on a domain-specific AI agent. My individual Bachelor's thesis, The Healthy Plate Quest, involved independently designing and developing a full-stack nutrition application with database management, gamification, and LLM-assisted personalized recommendations.
+
+I am currently strengthening my foundations in Machine Learning and Deep Learning while exploring AI agents, RAG, and production-oriented software engineering practices.
+
+I am interested in entry-level opportunities in Python Software Engineering, Backend Development, and Applied AI / AI Engineering.
 
 ---
 
-## Tech I work with
+## Technical Focus
 
 - **Languages:** Java, Python, C/C++, JavaScript, TypeScript, Kotlin
-- **Backend & Data:** Flask, REST APIs, SQLAlchemy
+- **Backend & Data:** Flask, REST APIs, SQLAlchemy, SQL
 - **AI/ML:** Groq API, TensorFlow, scikit-learn, pandas, NumPy
-- **Databases:** SQL, SQLite, Oracle
+- **Databases:** SQLite, Oracle
 - **Cloud & Tools:** AWS EC2, Git, GitHub, IntelliJ IDEA, VS Code
 
 ---
 
-## A few things I've built
+## Currently Learning
+
+- Machine Learning Specialization - Stanford University & DeepLearning.AI
+- Deep Learning Specialization - DeepLearning.AI
+- AI agent workflows and retrieval-augmented generation (RAG)
+- Software testing, deployment, and production-oriented development practices
+
+---
+
+## Featured Projects
 
 - 🍽️ **The Healthy Plate Quest** - this is the crown jewel of all my projects, done all by myself for my Bachelor's thesis on the effects of gamification, behavioral science and LLM on university students' healthy eating habits
 - 📱 **Android Utility Companion** - this is a side project consisting of random showcasing functions for my mobile app using Kotlin and Android Studio as the IDE
