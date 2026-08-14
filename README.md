@@ -22,9 +22,7 @@ I am interested in entry-level opportunities in Python Software Engineering, Bac
 
 ## Currently Learning
 
-- Machine Learning Specialization - Stanford University & DeepLearning.AI
 - Deep Learning Specialization - DeepLearning.AI
-- AI agent workflows and retrieval-augmented generation (RAG)
 - Software testing, deployment, and production-oriented development practices
 
 ---
