@@ -29,7 +29,7 @@ I am interested in entry-level opportunities in Python Software Engineering, Bac
 
 ## Featured Projects
 
-- 🍽️ **The Healthy Plate Quest** - this is the crown jewel of all my projects, done all by myself for my Bachelor's thesis on the effects of gamification, behavioral science and LLM on university students' healthy eating habits
+- 🍽️ **The Healthy Plate Quest** - an independently designed and developed Bachelor’s thesis project combining gamification, behavioral science, database-backed progress tracking, and LLM-assisted nutrition coaching
 - 🤖 **AI Suite** - a full-stack personal AI agent web app with weather, currency, and translation services, powered by LLaMA 3.3, Spring Boot, and a custom RAG pipeline using ChromaDB and Ollama
 - 📱 **Android Utility Companion** - this is a side project consisting of random showcasing functions for my mobile app using Kotlin and Android Studio as the IDE
 
