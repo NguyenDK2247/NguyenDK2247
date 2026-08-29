@@ -44,4 +44,4 @@ I'm currently deepening my understanding of full-stack development and looking t
 ## Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nguyen-dong-khoi-38789532b/)
-- 📧 [Email](neyugndongkhoibar@gmail.com)
+- 📧 [Email](mailto:neyugndongkhoibar@gmail.com)
